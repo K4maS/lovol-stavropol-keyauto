@@ -1,0 +1,4 @@
+<FilesMatch "\.txt|\.csv|\.json|\.xml$">
+  Order Deny,Allow
+  Deny from all
+</FilesMatch>

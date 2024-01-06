@@ -1,0 +1,1595 @@
+===========================================================
+31-07-2023 16:31:27  routeKey=1991&phone=79991111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D1%83&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(999) 111-11-11","title":"Получить выгоду","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":""}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79991111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Получить выгоду
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+)
+RESPONSE: {"meta":[],"data":{"type":"apiError","apiErrorData":{"errorCode":10003,"errorMessage":"Невозможно создать заявку, не найдено включенных виджетов с указанным ключём","errorDescription":null},"validationErrorData":null}}
+
+
+===========================================================
+31-07-2023 17:02:38  routeKey=1991&phone=79111111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(911) 111-11-11","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":""}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79111111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+)
+RESPONSE: {"meta":[],"data":{"type":"apiError","apiErrorData":{"errorCode":10003,"errorMessage":"Невозможно создать заявку, не найдено включенных виджетов с указанным ключём","errorDescription":null},"validationErrorData":null}}
+
+
+===========================================================
+01-08-2023 11:24:43  routeKey=1991&phone=79000000000&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=36725255
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(900) 000-00-00","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":36725255}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79000000000
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 36725255
+)
+RESPONSE: {"meta":[],"data":{"type":"apiError","apiErrorData":{"errorCode":10003,"errorMessage":"Невозможно создать заявку, не найдено включенных виджетов с указанным ключём","errorDescription":null},"validationErrorData":null}}
+
+
+===========================================================
+02-08-2023 09:42:48  routeKey=1991&phone=79777297696&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D1%83&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37214469
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(977) 729-76-96","title":"Получить выгоду","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37214469}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79777297696
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Получить выгоду
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37214469
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213387058}}
+
+
+===========================================================
+02-08-2023 11:34:38  routeKey=1991&phone=79991111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37277509
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(999) 111-11-11","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37277509}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79991111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37277509
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213389612}}
+
+
+===========================================================
+02-08-2023 11:49:51  routeKey=1991&phone=79991111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37277509
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(999) 111-11-11","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37277509}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79991111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37277509
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213389974}}
+
+
+===========================================================
+02-08-2023 11:54:42  routeKey=1991&phone=79991132165&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37277509
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(999) 113-21-65","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37277509}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79991132165
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37277509
+)
+RESPONSE: {"meta":[],"data":{"type":"apiError","apiErrorData":{"errorCode":10005,"errorMessage":"Превышен лимит отправки заявок в рамках сессии, если передан sessionId","errorDescription":"В течении сессии на одного пользователя может быть не более 2х заявок за последние 120 минут, минимальный интервал между заявками 5 минут.\nЗначения и интервалы лимитов могут меняться в одностороннем порядке без предварительного уведомления сторон."},"validationErrorData":null}}
+
+
+===========================================================
+02-08-2023 12:26:12  routeKey=1991&phone=79209004690&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37308318
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(920) 900-46-90","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37308318}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79209004690
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37308318
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213390923}}
+
+
+===========================================================
+02-08-2023 13:01:10  routeKey=1991&phone=79991111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37328020
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(999) 111-11-11","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37328020}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79991111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37328020
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213391765}}
+
+
+===========================================================
+02-08-2023 13:06:59  routeKey=1991&phone=79991111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37328020
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(999) 111-11-11","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37328020}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79991111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37328020
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213391897}}
+
+
+===========================================================
+03-08-2023 11:16:46  routeKey=1991&phone=79111111111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA&utmMedium=&utmSource=&utmCampaign=&utmContent=&utmTerm=&callUrl=0&sessionId=37795089
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(911) 111-11-11","title":"Заказать звонок","calltouch_route_key":"","url":"https://uaz-ng.ru/","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":37795089}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79111111111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Заказать звонок
+                )
+
+        )
+
+    [utmMedium] => 
+    [utmSource] => 
+    [utmCampaign] => 
+    [utmContent] => 
+    [utmTerm] => 
+    [callUrl] => 
+    [sessionId] => 37795089
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213406466}}
+
+
+===========================================================
+04-08-2023 07:05:33  routeKey=1991&phone=79506227353&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=38203437
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(950) 622-73-53","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46463655730_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11230_ret:46463655730_apt:none&yclid=4443087665850553308","referrer":"https://dzen.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 12; TECNO CH6i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.98.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":38203437}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79506227353
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 38203437
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213419201}}
+
+
+===========================================================
+04-08-2023 11:09:35  routeKey=1991&phone=79777297696&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utmContent=cid_93669604%7Cct_type1%7Cgr_5264642073%7Cb_14831750692%7Cre_46520659420%7Ccre_0%7Cph_46520659420%7Cdrf_no%7Cmt_syn%7Cmk_%7Cst_search%7Cs_none%7Cp_2%7Cpt_premium%7Cdt_desktop%7Creg_213_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&utmTerm=UAZ&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=38313352
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(977) 729-76-96","title":"Получить выгоду","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utm_term=UAZ&utm_content=cid_93669604|ct_type1|gr_5264642073|b_14831750692|re_46520659420|cre_0|ph_46520659420|drf_no|mt_syn|mk_|st_search|s_none|p_2|pt_premium|dt_desktop|reg_213_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&calltouch_tm=yd_c:93669604_gb:5264642073_ad:14831750692_ph:46520659420_st:search_pt:premium_p:2_s:none_dt:desktop_reg:213_ret:46520659420_apt:none&yclid=11931640401734926335","referrer":"https://yandex.ru/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":38313352}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79777297696
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Получить выгоду
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_Net_Urengoy_AD_Multi
+    [utmContent] => cid_93669604|ct_type1|gr_5264642073|b_14831750692|re_46520659420|cre_0|ph_46520659420|drf_no|mt_syn|mk_|st_search|s_none|p_2|pt_premium|dt_desktop|reg_213_Москва
+    [utmTerm] => UAZ
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 38313352
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213422989}}
+
+
+===========================================================
+05-08-2023 07:43:22  routeKey=1991&phone=79220678103&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367357%7Cb_14824452468%7Cre_46463532306%7Ccre_0%7Cph_46463532306%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_b17.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=38702941
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 067-81-03","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_b17.ru|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:93268266_gb:5262367357_ad:14824452468_ph:46463532306_st:context_pt:none_p:0_s:b17.ru_dt:mobile_reg:11230_ret:46463532306_apt:none&yclid=4466347671193981925","referrer":"https://b17-ru.turbopages.org/","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":38702941}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79220678103
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_b17.ru|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 38702941
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213435258}}
+
+
+===========================================================
+05-08-2023 11:40:32  routeKey=1991&phone=79088565273&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC&utmContent=cid_92864712%7Cct_type1%7Cgr_5260241578%7Cb_14801903369%7Cre_46409943134%7Ccre_0%7Cph_46409943134%7Cdrf_no%7Cmt_%7Cmk_%7Cst_search%7Cs_none%7Cp_1%7Cpt_premium%7Cdt_mobile%7Creg_11229_%D0%9D%D0%B0%D0%B4%D1%8B%D0%BC&utmTerm=%D1%83%D0%B0%D0%B7+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9+%D1%83%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&callUrl=https%3A%2F%2Fuaz-ng.ru%2F
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(908) 856-52-73","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC&utm_term=%D1%83%D0%B0%D0%B7%20%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%83%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utm_content=cid_92864712|ct_type1|gr_5260241578|b_14801903369|re_46409943134|cre_0|ph_46409943134|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11229_%D0%9D%D0%B0%D0%B4%D1%8B%D0%BC&calltouch_tm=yd_c:92864712_gb:5260241578_ad:14801903369_ph:46409943134_st:search_pt:premium_p:1_s:none_dt:mobile_reg:11229_ret:46409943134_apt:none&yclid=4586558653209247743","referrer":"https://yandex.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 13; RMX3630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.3.104.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":""}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79088565273
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC
+    [utmContent] => cid_92864712|ct_type1|gr_5260241578|b_14801903369|re_46409943134|cre_0|ph_46409943134|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11229_Надым
+    [utmTerm] => уаз новый уренгой
+    [callUrl] => https://uaz-ng.ru/
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213438307}}
+
+
+===========================================================
+06-08-2023 08:31:11  routeKey=1991&phone=79088603589&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utmContent=cid_93268329%7Cct_type1%7Cgr_5262368076%7Cb_14824453330%7Cre_46463552320%7Ccre_0%7Cph_46463552320%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_com.avito.android%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=39117950
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(908) 860-35-89","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utm_term=---autotargeting&utm_content=cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46463552320|cre_0|ph_46463552320|drf_no|mt_|mk_|st_context|s_com.avito.android|p_0|pt_none|dt_mobile|reg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&calltouch_tm=yd_c:93268329_gb:5262368076_ad:14824453330_ph:46463552320_st:context_pt:none_p:0_s:com.avito.android_dt:mobile_reg:58_ret:46463552320_apt:none&yclid=4489747644543983684","referrer":"","user_agent":"Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi 9 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.19.2-gn","ya":[],"ga":[],"calltouchSessionId":39117950}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79088603589
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_АWB_clickphone
+    [utmContent] => cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46463552320|cre_0|ph_46463552320|drf_no|mt_|mk_|st_context|s_com.avito.android|p_0|pt_none|dt_mobile|reg_58_Салехард
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 39117950
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213447807}}
+
+
+===========================================================
+06-08-2023 17:55:45  routeKey=1991&phone=79026261709&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367362%7Cb_14824452480%7Cre_46463532457%7Ccre_0%7Cph_46463532457%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_com.avito.android%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11229_%D0%9D%D0%B0%D0%B4%D1%8B%D0%BC&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=39341365
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(902) 626-17-09","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367362|b_14824452480|re_46463532457|cre_0|ph_46463532457|drf_no|mt_|mk_|st_context|s_com.avito.android|p_0|pt_none|dt_mobile|reg_11229_%D0%9D%D0%B0%D0%B4%D1%8B%D0%BC&calltouch_tm=yd_c:93268266_gb:5262367362_ad:14824452480_ph:46463532457_st:context_pt:none_p:0_s:com.avito.android_dt:mobile_reg:11229_ret:46463532457_apt:none&yclid=4498628886929139036","referrer":"","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":39341365}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79026261709
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367362|b_14824452480|re_46463532457|cre_0|ph_46463532457|drf_no|mt_|mk_|st_context|s_com.avito.android|p_0|pt_none|dt_mobile|reg_11229_Надым
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 39341365
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213455506}}
+
+
+===========================================================
+07-08-2023 09:20:26  routeKey=1991&phone=79222881850&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utmContent=cid_93268329%7Cct_type1%7Cgr_5262368082%7Cb_14824453346%7Cre_46463552449%7Ccre_0%7Cph_46463552449%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=39571491
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 288-18-50","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utm_term=---autotargeting&utm_content=cid_93268329|ct_type1|gr_5262368082|b_14824453346|re_46463552449|cre_0|ph_46463552449|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268329_gb:5262368082_ad:14824453346_ph:46463552449_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:46463552449_apt:none&yclid=4513141719637496887","referrer":"https://dzen.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 12; Nokia G10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaApp_Android/23.34.1 YaSearchBrowser/23.34.1 BroPP/1.0 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":39571491}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79222881850
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_АWB_clickphone
+    [utmContent] => cid_93268329|ct_type1|gr_5262368082|b_14824453346|re_46463552449|cre_0|ph_46463552449|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 39571491
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213461178}}
+
+
+===========================================================
+08-08-2023 08:26:32  routeKey=1991&phone=79129132832&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625453%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40077130
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(912) 913-28-32","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625453|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625453_ph:46463655730_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:46463655730_apt:none&yclid=4534972759022297304","referrer":"https://dzen.ru/a/ZM-KAytKUm7-W8PT","user_agent":"Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 10 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.27.0-gn","ya":[],"ga":[],"calltouchSessionId":40077130}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79129132832
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625453|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40077130
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213479575}}
+
+
+===========================================================
+08-08-2023 11:39:53  routeKey=1991&phone=79222834105&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utmContent=cid_93669604%7Cct_type1%7Cgr_5264642073%7Cb_14831750699%7Cre_46520659419%7Ccre_0%7Cph_46520659419%7Cdrf_no%7Cmt_%7Cmk_%7Cst_search%7Cs_none%7Cp_1%7Cpt_premium%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=%D0%A3%D0%90%D0%97&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40180135
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 283-41-05","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utm_term=%D0%A3%D0%90%D0%97&utm_content=cid_93669604|ct_type1|gr_5264642073|b_14831750699|re_46520659419|cre_0|ph_46520659419|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93669604_gb:5264642073_ad:14831750699_ph:46520659419_st:search_pt:premium_p:1_s:none_dt:mobile_reg:11232_ret:46520659419_apt:none&yclid=12034803398631751679","referrer":"https://yandex.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 10; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.94.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":40180135}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79222834105
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_Net_Urengoy_AD_Multi
+    [utmContent] => cid_93669604|ct_type1|gr_5264642073|b_14831750699|re_46520659419|cre_0|ph_46520659419|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => УАЗ
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40180135
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213484049}}
+
+
+===========================================================
+08-08-2023 12:24:35  routeKey=1991&phone=79292569370&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utmContent=cid_93669604%7Cct_type1%7Cgr_5264642073%7Cb_14831750698%7Cre_46519372192%7Ccre_0%7Cph_46519372192%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_mail.ru%7Cp_0%7Cpt_none%7Cdt_desktop%7Creg_11231_%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40206414
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(929) 256-93-70","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utm_term=---autotargeting&utm_content=cid_93669604|ct_type1|gr_5264642073|b_14831750698|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_mail.ru|p_0|pt_none|dt_desktop|reg_11231_%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA&calltouch_tm=yd_c:93669604_gb:5264642073_ad:14831750698_ph:46519372192_st:context_pt:none_p:0_s:mail.ru_dt:desktop_reg:11231_ret:46519372192_apt:none&yclid=4538718000648098761","referrer":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.1.1140 Yowser/2.5 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":40206414}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79292569370
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_Net_Urengoy_AD_Multi
+    [utmContent] => cid_93669604|ct_type1|gr_5264642073|b_14831750698|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_mail.ru|p_0|pt_none|dt_desktop|reg_11231_Ноябрьск
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40206414
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213485318}}
+
+
+===========================================================
+08-08-2023 14:26:34  routeKey=1991&phone=79124221111&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utmContent=cid_92864720%7Cct_type1%7Cgr_5262194356%7Cb_14811761338%7Cre_46463646201%7Ccre_0%7Cph_46463646201%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40276478
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(912) 422-11-11","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utm_term=---autotargeting&utm_content=cid_92864720|ct_type1|gr_5262194356|b_14811761338|re_46463646201|cre_0|ph_46463646201|drf_no|mt_|mk_|st_context|s_xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:92864720_gb:5262194356_ad:14811761338_ph:46463646201_st:context_pt:none_p:0_s:xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai_dt:mobile_reg:11230_ret:46463646201_apt:none&yclid=4540614066608870140","referrer":"https://d-34840345392839924749.ampproject.net/","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":40276478}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79124221111
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB
+    [utmContent] => cid_92864720|ct_type1|gr_5262194356|b_14811761338|re_46463646201|cre_0|ph_46463646201|drf_no|mt_|mk_|st_context|s_xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40276478
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213488431}}
+
+
+===========================================================
+08-08-2023 16:01:04  routeKey=1991&phone=79220698014&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_cardilers.ru%7Cp_0%7Cpt_none%7Cdt_desktop%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40329414
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 069-80-14","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_cardilers.ru|p_0|pt_none|dt_desktop|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46463655730_st:context_pt:none_p:0_s:cardilers.ru_dt:desktop_reg:11232_ret:46463655730_apt:none&yclid=4542118196792333449","referrer":"https://cardilers.ru/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":40329414}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79220698014
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_cardilers.ru|p_0|pt_none|dt_desktop|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40329414
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213490604}}
+
+
+===========================================================
+08-08-2023 22:10:07  routeKey=1991&phone=79044752629&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC&utmContent=cid_92864712%7Cct_type1%7Cgr_5260073121%7Cb_14799575254%7Cre_46508185442%7Ccre_0%7Cph_46508185442%7Cdrf_no%7Cmt_%7Cmk_%7Cst_search%7Cs_none%7Cp_1%7Cpt_premium%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40488555
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(904) 475-26-29","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC&utm_term=&utm_content=cid_92864712|ct_type1|gr_5260073121|b_14799575254|re_46508185442|cre_0|ph_46508185442|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:92864712_gb:5260073121_ad:14799575254_ph:46508185442_st:search_pt:premium_p:1_s:none_dt:mobile_reg:11232_ret:46508185442_apt:none&yclid=16211848156945842175","referrer":"https://yandex.ru/","user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 YaBrowser/23.3.3.330.10 SA/3 Mobile/15E148 Safari/604.1","ya":[],"ga":[],"calltouchSessionId":40488555}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79044752629
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC
+    [utmContent] => cid_92864712|ct_type1|gr_5260073121|b_14799575254|re_46508185442|cre_0|ph_46508185442|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => 
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40488555
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213496264}}
+
+
+===========================================================
+09-08-2023 11:15:08  routeKey=1991&phone=79292535270&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utmContent=cid_93669604%7Cct_type1%7Cgr_5264642073%7Cb_14831750699%7Cre_46519372192%7Ccre_0%7Cph_46519372192%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40708423
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(929) 253-52-70","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utm_term=---autotargeting&utm_content=cid_93669604|ct_type1|gr_5264642073|b_14831750699|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93669604_gb:5264642073_ad:14831750699_ph:46519372192_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:46519372192_apt:none&yclid=4560241380745352332","referrer":"https://dzen.ru/a/ZNL5Gj4qeF7suKZz","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 12; Mi Note 10 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaApp_Android/23.74.1 YaSearchBrowser/23.74.1 BroPP/1.0 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":40708423}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79292535270
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_Net_Urengoy_AD_Multi
+    [utmContent] => cid_93669604|ct_type1|gr_5264642073|b_14831750699|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40708423
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213502735}}
+
+
+===========================================================
+09-08-2023 12:47:33  routeKey=1991&phone=79088551462&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367358%7Cb_14824452470%7Cre_46463532453%7Ccre_0%7Cph_46463532453%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_meteo7.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=40764687
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(908) 855-14-62","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367358|b_14824452470|re_46463532453|cre_0|ph_46463532453|drf_no|mt_|mk_|st_context|s_meteo7.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268266_gb:5262367358_ad:14824452470_ph:46463532453_st:context_pt:none_p:0_s:meteo7.ru_dt:mobile_reg:11232_ret:46463532453_apt:none&yclid=4561716568091847333","referrer":"https://meteo7.ru/","user_agent":"Mozilla/5.0 (Linux; Android 13; TECNO KI5q Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.138 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":40764687}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79088551462
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367358|b_14824452470|re_46463532453|cre_0|ph_46463532453|drf_no|mt_|mk_|st_context|s_meteo7.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 40764687
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213505262}}
+
+
+===========================================================
+10-08-2023 12:59:07  routeKey=1991&phone=79004002069&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utmContent=cid_93268329%7Cct_type1%7Cgr_5262368076%7Cb_14824453330%7Cre_46463552320%7Ccre_0%7Cph_46463552320%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_primpress.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=41315875
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(900) 400-20-69","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utm_term=---autotargeting&utm_content=cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46463552320|cre_0|ph_46463552320|drf_no|mt_|mk_|st_context|s_primpress.ru|p_0|pt_none|dt_mobile|reg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&calltouch_tm=yd_c:93268329_gb:5262368076_ad:14824453330_ph:46463552320_st:context_pt:none_p:0_s:primpress.ru_dt:mobile_reg:58_ret:46463552320_apt:none&yclid=4584543081679363344","referrer":"https://primpress.ru/","user_agent":"Mozilla/5.0 (Linux; Android 11; SM-A022G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":41315875}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79004002069
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_АWB_clickphone
+    [utmContent] => cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46463552320|cre_0|ph_46463552320|drf_no|mt_|mk_|st_context|s_primpress.ru|p_0|pt_none|dt_mobile|reg_58_Салехард
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 41315875
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213524810}}
+
+
+===========================================================
+10-08-2023 16:11:34  routeKey=1991&phone=79220555837&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utmContent=cid_93268329%7Cct_type1%7Cgr_5262368076%7Cb_14824453330%7Cre_46460918071%7Ccre_0%7Cph_46460918071%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_mamba.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11231_%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA&utmTerm=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D1%83%D0%B0%D0%B7+%D1%85%D0%B0%D0%BD%D1%82%D0%B5%D1%80&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=41425582
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 055-58-37","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%83%D0%B0%D0%B7%20%D1%85%D0%B0%D0%BD%D1%82%D0%B5%D1%80&utm_content=cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46460918071|cre_0|ph_46460918071|drf_no|mt_|mk_|st_context|s_mamba.ru|p_0|pt_none|dt_mobile|reg_11231_%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA&calltouch_tm=yd_c:93268329_gb:5262368076_ad:14824453330_ph:46460918071_st:context_pt:none_p:0_s:mamba.ru_dt:mobile_reg:11231_ret:46460918071_apt:none&yclid=4587591409957661182","referrer":"https://love.mail.ru/","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":41425582}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79220555837
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_АWB_clickphone
+    [utmContent] => cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46460918071|cre_0|ph_46460918071|drf_no|mt_|mk_|st_context|s_mamba.ru|p_0|pt_none|dt_mobile|reg_11231_Ноябрьск
+    [utmTerm] => купить уаз хантер
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 41425582
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213529230}}
+
+
+===========================================================
+12-08-2023 07:37:02  routeKey=1991&phone=79220579263&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_m.edadeal.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42178168
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 057-92-63","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_m.edadeal.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46463655730_st:context_pt:none_p:0_s:m.edadeal.ru_dt:mobile_reg:11232_ret:46463655730_apt:none&yclid=4624788930165543479","referrer":"","user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1","ya":[],"ga":[],"calltouchSessionId":42178168}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79220579263
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_m.edadeal.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42178168
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213555277}}
+
+
+===========================================================
+12-08-2023 09:19:38  routeKey=1991&phone=79220931017&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46460844073%7Ccre_0%7Cph_46460844073%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_ru.thousandcardgame.android%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9+%D1%83%D0%B0%D0%B7+%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82+%D1%86%D0%B5%D0%BD%D0%B0&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42211852
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 093-10-17","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%83%D0%B0%D0%B7%20%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%20%D1%86%D0%B5%D0%BD%D0%B0&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46460844073|cre_0|ph_46460844073|drf_no|mt_|mk_|st_context|s_ru.thousandcardgame.android|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46460844073_st:context_pt:none_p:0_s:ru.thousandcardgame.android_dt:mobile_reg:11230_ret:46460844073_apt:none&yclid=4626400179662951602","referrer":"","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 13; V2036) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":42211852}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79220931017
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46460844073|cre_0|ph_46460844073|drf_no|mt_|mk_|st_context|s_ru.thousandcardgame.android|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => новый уаз патриот цена
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42211852
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213556416}}
+
+
+===========================================================
+12-08-2023 17:58:23  routeKey=1991&phone=79292083426&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utmContent=cid_93268329%7Cct_type1%7Cgr_5262368076%7Cb_14824453330%7Cre_46460918070%7Ccre_0%7Cph_46460918070%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_topwar.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=%D1%83%D0%B0%D0%B7+%D1%85%D0%B0%D0%BD%D1%82%D0%B5%D1%80+2023+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42421533
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(929) 208-34-26","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utm_term=%D1%83%D0%B0%D0%B7%20%D1%85%D0%B0%D0%BD%D1%82%D0%B5%D1%80%202023%20%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&utm_content=cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46460918070|cre_0|ph_46460918070|drf_no|mt_|mk_|st_context|s_topwar.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268329_gb:5262368076_ad:14824453330_ph:46460918070_st:context_pt:none_p:0_s:topwar.ru_dt:mobile_reg:11232_ret:46460918070_apt:none&yclid=4634561591449555690","referrer":"https://topwar.ru/","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":42421533}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79292083426
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_АWB_clickphone
+    [utmContent] => cid_93268329|ct_type1|gr_5262368076|b_14824453330|re_46460918070|cre_0|ph_46460918070|drf_no|mt_|mk_|st_context|s_topwar.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => уаз хантер 2023 купить
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42421533
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213565247}}
+
+
+===========================================================
+13-08-2023 08:45:47  routeKey=1991&phone=79003979964&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46460844076%7Ccre_0%7Cph_46460844076%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_com.avito.android%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&utmTerm=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D1%83%D0%B0%D0%B7+%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D0%B0&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42611418
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(900) 397-99-64","title":"Получить выгоду","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%83%D0%B0%D0%B7%20%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%20%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D0%B0&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46460844076|cre_0|ph_46460844076|drf_no|mt_|mk_|st_context|s_com.avito.android|p_0|pt_none|dt_mobile|reg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46460844076_st:context_pt:none_p:0_s:com.avito.android_dt:mobile_reg:58_ret:46460844076_apt:none&yclid=4648523042754990782","referrer":"","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":42611418}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79003979964
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Получить выгоду
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46460844076|cre_0|ph_46460844076|drf_no|mt_|mk_|st_context|s_com.avito.android|p_0|pt_none|dt_mobile|reg_58_Салехард
+    [utmTerm] => купить уаз патриот новый цена
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42611418
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213570544}}
+
+
+===========================================================
+13-08-2023 08:51:35  routeKey=1991&phone=79124359525&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367357%7Cb_14824452468%7Cre_46463532306%7Ccre_0%7Cph_46463532306%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42614068
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(912) 435-95-25","title":"Получить выгоду","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268266_gb:5262367357_ad:14824452468_ph:46463532306_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:46463532306_apt:none&yclid=4648594113549098970","referrer":"https://dzen.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 10; COL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":42614068}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79124359525
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Получить выгоду
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42614068
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213570593}}
+
+
+===========================================================
+13-08-2023 09:00:26  routeKey=1991&phone=79124359525&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Retarget_%D0%90WB&utmContent=cid_93268350%7Cct_type1%7Cgr_5262368475%7Cb_14812627465%7Cre_52726184%7Ccre_0%7Cph_52726184%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42614068
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(912) 435-95-25","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Retarget_%D0%90WB&utm_term=&utm_content=cid_93268350|ct_type1|gr_5262368475|b_14812627465|re_52726184|cre_0|ph_52726184|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268350_gb:5262368475_ad:14812627465_ph:52726184_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:52726184_apt:none&yclid=4648756536033220290","referrer":"https://dzen.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 10; COL-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":42614068}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79124359525
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Retarget_АWB
+    [utmContent] => cid_93268350|ct_type1|gr_5262368475|b_14812627465|re_52726184|cre_0|ph_52726184|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => 
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42614068
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213570690}}
+
+
+===========================================================
+13-08-2023 11:46:39  routeKey=1991&phone=79821613610&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utmContent=cid_92864720%7Cct_type1%7Cgr_5261064928%7Cb_14806408060%7Cre_46463646196%7Ccre_0%7Cph_46463646196%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_m.video.yandex.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=42685891
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(982) 161-36-10","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utm_term=---autotargeting&utm_content=cid_92864720|ct_type1|gr_5261064928|b_14806408060|re_46463646196|cre_0|ph_46463646196|drf_no|mt_|mk_|st_context|s_m.video.yandex.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:92864720_gb:5261064928_ad:14806408060_ph:46463646196_st:context_pt:none_p:0_s:m.video.yandex.ru_dt:mobile_reg:11232_ret:46463646196_apt:none&yclid=4651342173555987231","referrer":"https://yandex.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 10; MAR-LX1H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.54.1 YaSearchBrowser/23.54.1 BroPP/1.0 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":42685891}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79821613610
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB
+    [utmContent] => cid_92864720|ct_type1|gr_5261064928|b_14806408060|re_46463646196|cre_0|ph_46463646196|drf_no|mt_|mk_|st_context|s_m.video.yandex.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 42685891
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213573401}}
+
+
+===========================================================
+14-08-2023 07:16:29  routeKey=1991&phone=79821659844&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utmContent=cid_92864720%7Cct_type1%7Cgr_5261064927%7Cb_14806408058%7Cre_46463646195%7Ccre_0%7Cph_46463646195%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_linkdesks.classic.solitaire.klondike%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=43025621
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(982) 165-98-44","title":"Получить выгоду","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utm_term=---autotargeting&utm_content=cid_92864720|ct_type1|gr_5261064927|b_14806408058|re_46463646195|cre_0|ph_46463646195|drf_no|mt_|mk_|st_context|s_linkdesks.classic.solitaire.klondike|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:92864720_gb:5261064927_ad:14806408058_ph:46463646195_st:context_pt:none_p:0_s:linkdesks.classic.solitaire.klondike_dt:mobile_reg:11232_ret:46463646195_apt:none&yclid=4669761829611303637","referrer":"","user_agent":"Mozilla/5.0 (Linux; Android 12; V2205; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 VivoBrowser/7.16.1.3","ya":[],"ga":[],"calltouchSessionId":43025621}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79821659844
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Получить выгоду
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB
+    [utmContent] => cid_92864720|ct_type1|gr_5261064927|b_14806408058|re_46463646195|cre_0|ph_46463646195|drf_no|mt_|mk_|st_context|s_linkdesks.classic.solitaire.klondike|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 43025621
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213583927}}
+
+
+===========================================================
+14-08-2023 12:30:24  routeKey=1991&phone=79924019291&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utmContent=cid_93669604%7Cct_type1%7Cgr_5264642073%7Cb_14831750677%7Cre_46519372192%7Ccre_0%7Cph_46519372192%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_ru.yandex.weatherplugin%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11228_%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=43196403
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(992) 401-92-91","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utm_term=---autotargeting&utm_content=cid_93669604|ct_type1|gr_5264642073|b_14831750677|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_ru.yandex.weatherplugin|p_0|pt_none|dt_mobile|reg_11228_%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&calltouch_tm=yd_c:93669604_gb:5264642073_ad:14831750677_ph:46519372192_st:context_pt:none_p:0_s:ru.yandex.weatherplugin_dt:mobile_reg:11228_ret:46519372192_apt:none&yclid=4674696572027602089","referrer":"","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 12; M2010J19SY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":43196403}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79924019291
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_Net_Urengoy_AD_Multi
+    [utmContent] => cid_93669604|ct_type1|gr_5264642073|b_14831750677|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_ru.yandex.weatherplugin|p_0|pt_none|dt_mobile|reg_11228_Губкинский
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 43196403
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213590978}}
+
+
+===========================================================
+14-08-2023 16:17:49  routeKey=1991&phone=79224548249&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367357%7Cb_14824452468%7Cre_46463532306%7Ccre_0%7Cph_46463532306%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_limehd.ru.lite%7Cp_0%7Cpt_none%7Cdt_tablet%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=43333496
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 454-82-49","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_limehd.ru.lite|p_0|pt_none|dt_tablet|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268266_gb:5262367357_ad:14824452468_ph:46463532306_st:context_pt:none_p:0_s:limehd.ru.lite_dt:tablet_reg:11232_ret:46463532306_apt:none&yclid=4678271878490297542","referrer":"","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":43333496}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79224548249
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_limehd.ru.lite|p_0|pt_none|dt_tablet|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 43333496
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213597094}}
+
+
+===========================================================
+15-08-2023 11:55:31  routeKey=1991&phone=79924019291&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A0%D0%B0%D1%81%D1%81%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C+%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utmContent=cid_93268329%7Cct_type1%7Cgr_5262368082%7Cb_14824453346%7Cre_46463552449%7Ccre_0%7Cph_46463552449%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_ru.auto.ara%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11228_%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=43733498
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(992) 401-92-91","title":"Рассчитать кредит","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_%D0%90WB_clickphone&utm_term=---autotargeting&utm_content=cid_93268329|ct_type1|gr_5262368082|b_14824453346|re_46463552449|cre_0|ph_46463552449|drf_no|mt_|mk_|st_context|s_ru.auto.ara|p_0|pt_none|dt_mobile|reg_11228_%D0%93%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9&calltouch_tm=yd_c:93268329_gb:5262368082_ad:14824453346_ph:46463552449_st:context_pt:none_p:0_s:ru.auto.ara_dt:mobile_reg:11228_ret:46463552449_apt:none&yclid=4696805352161477847","referrer":"","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 12; M2010J19SY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.95.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":43733498}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79924019291
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Рассчитать кредит
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_АWB_clickphone
+    [utmContent] => cid_93268329|ct_type1|gr_5262368082|b_14824453346|re_46463552449|cre_0|ph_46463552449|drf_no|mt_|mk_|st_context|s_ru.auto.ara|p_0|pt_none|dt_mobile|reg_11228_Губкинский
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 43733498
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213610723}}
+
+
+===========================================================
+15-08-2023 12:29:35  routeKey=1991&phone=79220597050&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_m.edadeal.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=43754370
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(922) 059-70-50","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_m.edadeal.ru|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46463655730_st:context_pt:none_p:0_s:m.edadeal.ru_dt:mobile_reg:11230_ret:46463655730_apt:none&yclid=4697324296137151807","referrer":"android-app://com.edadeal.android/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 13; SM-A325F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.94.00 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":43754370}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79220597050
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_m.edadeal.ru|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 43754370
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213611667}}
+
+
+===========================================================
+15-08-2023 16:58:39  routeKey=1991&phone=79044752629&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%92%D1%8B%D0%B3%D0%BE%D0%B4%D0%B0+%D0%B4%D0%BE+200+000+%E2%82%BD+%2A&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC&utmContent=cid_92864712%7Cct_type1%7Cgr_5260073121%7Cb_14805847713%7Cre_46409943171%7Ccre_0%7Cph_46409943171%7Cdrf_no%7Cmt_%7Cmk_%7Cst_search%7Cs_none%7Cp_1%7Cpt_premium%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=%D1%83%D0%B0%D0%B7+%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82+2023&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=43916901
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(904) 475-26-29","title":"Выгода до 200 000 ₽ *","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC&utm_term=%D1%83%D0%B0%D0%B7%20%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%202023&utm_content=cid_92864712|ct_type1|gr_5260073121|b_14805847713|re_46409943171|cre_0|ph_46409943171|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:92864712_gb:5260073121_ad:14805847713_ph:46409943171_st:search_pt:premium_p:1_s:none_dt:mobile_reg:11232_ret:46409943171_apt:none&yclid=11144205043538853887","referrer":"https://yandex.ru/","user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 YaBrowser/23.3.3.330.10 SA/3 Mobile/15E148 Safari/604.1","ya":[],"ga":[],"calltouchSessionId":43916901}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79044752629
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Выгода до 200 000 ₽ *
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_noviy-urengoy_AD_Multi_ACC
+    [utmContent] => cid_92864712|ct_type1|gr_5260073121|b_14805847713|re_46409943171|cre_0|ph_46409943171|drf_no|mt_|mk_|st_search|s_none|p_1|pt_premium|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => уаз патриот 2023
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 43916901
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213618643}}
+
+
+===========================================================
+16-08-2023 10:59:19  routeKey=1991&phone=79028292431&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utmContent=cid_92864720%7Cct_type1%7Cgr_5261064928%7Cb_14806408060%7Cre_46463646196%7Ccre_0%7Cph_46463646196%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_1000.menu%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=44265335
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(902) 829-24-31","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB&utm_term=---autotargeting&utm_content=cid_92864720|ct_type1|gr_5261064928|b_14806408060|re_46463646196|cre_0|ph_46463646196|drf_no|mt_|mk_|st_context|s_1000.menu|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:92864720_gb:5261064928_ad:14806408060_ph:46463646196_st:context_pt:none_p:0_s:1000.menu_dt:mobile_reg:11230_ret:46463646196_apt:none&yclid=4718567907944108689","referrer":"https://1000.menu/","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":44265335}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79028292431
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB
+    [utmContent] => cid_92864720|ct_type1|gr_5261064928|b_14806408060|re_46463646196|cre_0|ph_46463646196|drf_no|mt_|mk_|st_context|s_1000.menu|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 44265335
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213629227}}
+
+
+===========================================================
+16-08-2023 11:56:09  routeKey=1991&phone=79129109887&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367358%7Cb_14824452470%7Cre_46463532453%7Ccre_0%7Cph_46463532453%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=44296863
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(912) 910-98-87","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367358|b_14824452470|re_46463532453|cre_0|ph_46463532453|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268266_gb:5262367358_ad:14824452470_ph:46463532453_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:46463532453_apt:none&yclid=4719462336591358444","referrer":"https://dzen.ru/","user_agent":"Mozilla/5.0 (Linux; arm_64; Android 11; NTN-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaApp_Android/23.34.1 YaSearchBrowser/23.34.1 BroPP/1.0 SA/3 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":44296863}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79129109887
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367358|b_14824452470|re_46463532453|cre_0|ph_46463532453|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 44296863
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213630422}}
+
+
+===========================================================
+16-08-2023 14:32:23  routeKey=1991&phone=79028163538&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utmContent=cid_93669604%7Cct_type1%7Cgr_5264642073%7Cb_14831750679%7Cre_46519372192%7Ccre_0%7Cph_46519372192%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_game.yandex.ru%7Cp_0%7Cpt_none%7Cdt_desktop%7Creg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=44397107
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(902) 816-35-38","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Search_Net_Urengoy_AD_Multi&utm_term=---autotargeting&utm_content=cid_93669604|ct_type1|gr_5264642073|b_14831750679|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_game.yandex.ru|p_0|pt_none|dt_desktop|reg_58_%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4&calltouch_tm=yd_c:93669604_gb:5264642073_ad:14831750679_ph:46519372192_st:context_pt:none_p:0_s:game.yandex.ru_dt:desktop_reg:58_ret:46519372192_apt:none&yclid=4721915288756753113","referrer":"https://yandex.ru/games/app/185765?utm_source=game_promo_catalog&utm_campaign=rus_games_title-popular1_yandex_search_460.new%7C59208081&utm_medium=search&utm_term=%D0%BA%D0%BE%D1%81%D1%8B%D0%BD%D0%BA%D0%B0&ypr=https%3A%2F%2Fyandex.ru%2Fgames%2F%3Futm_medium%3Dsearch%26utm_source%3Dyandex%26utm_campaign%3Drus_games_title-popular1_yandex_search_460.new%257C59208081%26utm_content%3Dk50id%257C0100000026527337345_26527337345%257Ccid%257C59208081%257Cgid%257C4460523811%257Caid%257C10267194376%257Cadp%257Cno%257Cpos%257Cpremium1%257Csrc%257Csearch_none%257Cdvc%257Cdesktop%257Cmain%26k50id%3D0100000026527337345_26527337345%26utm_term%3D%25D0%25BA%25D0%25BE%25D1%2581%25D1%258B%25D0%25BD%25D0%25BA%25D0%25B0%26yclid%3D10941219638823354367&utm_content=k50id%7C0100000026527337345_26527337345%7Ccid%7C59208081%7Cgid%7C4460523811%7Caid%7C10267194376%7Cadp%7Cno%7Cpos%7Cpremium1%7Csrc%7Csearch_none%7Cdvc%7Cdesktop%7Cmain","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":44397107}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79028163538
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Search_Net_Urengoy_AD_Multi
+    [utmContent] => cid_93669604|ct_type1|gr_5264642073|b_14831750679|re_46519372192|cre_0|ph_46519372192|drf_no|mt_|mk_|st_context|s_game.yandex.ru|p_0|pt_none|dt_desktop|reg_58_Салехард
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 44397107
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213634471}}
+
+
+===========================================================
+17-08-2023 09:35:52  routeKey=1991&phone=79124361425&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utmContent=cid_93268266%7Cct_type1%7Cgr_5262367357%7Cb_14824452468%7Cre_46463532306%7Ccre_0%7Cph_46463532306%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_chess-samara.ru%7Cp_0%7Cpt_none%7Cdt_desktop%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=44784697
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(912) 436-14-25","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_RSY_%D0%90WB_lead&utm_term=---autotargeting&utm_content=cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_chess-samara.ru|p_0|pt_none|dt_desktop|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268266_gb:5262367357_ad:14824452468_ph:46463532306_st:context_pt:none_p:0_s:chess-samara.ru_dt:desktop_reg:11232_ret:46463532306_apt:none&yclid=4739906189876597553","referrer":"https://chess-samara.ru/","user_agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.767 Yowser/2.5 Safari/537.36","ya":[],"ga":[],"calltouchSessionId":44784697}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79124361425
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_RSY_АWB_lead
+    [utmContent] => cid_93268266|ct_type1|gr_5262367357|b_14824452468|re_46463532306|cre_0|ph_46463532306|drf_no|mt_|mk_|st_context|s_chess-samara.ru|p_0|pt_none|dt_desktop|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 44784697
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213646436}}
+
+
+===========================================================
+17-08-2023 18:44:13  routeKey=1991&phone=79844532530&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625451%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_dzen.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=45099653
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(984) 453-25-30","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625451_ph:46463655730_st:context_pt:none_p:0_s:dzen.ru_dt:mobile_reg:11232_ret:46463655730_apt:none&yclid=4748530567624595248","referrer":"https://dzen.ru/a/ZNvNB5n7Y3_9DPoK","user_agent":"Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 8T Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.32.0-gn","ya":[],"ga":[],"calltouchSessionId":45099653}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79844532530
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625451|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_dzen.ru|p_0|pt_none|dt_mobile|reg_11232_Ямало-Ненецкий автономный округ
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 45099653
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213659021}}
+
+
+===========================================================
+18-08-2023 12:29:15  routeKey=1991&phone=79195535505&fields%5B0%5D%5Bname%5D=form_title&fields%5B0%5D%5Bvalue%5D=%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C+%D1%86%D0%B5%D0%BD%D1%83&utmMedium=cpc&utmSource=yandex_s&utmCampaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utmContent=cid_93268221%7Cct_type1%7Cgr_5262366924%7Cb_14812625452%7Cre_46463655730%7Ccre_0%7Cph_46463655730%7Cdrf_no%7Cmt_%7Cmk_%7Cst_context%7Cs_glas.ru%7Cp_0%7Cpt_none%7Cdt_mobile%7Creg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&utmTerm=---autotargeting&callUrl=https%3A%2F%2Fuaz-ng.ru%2F&sessionId=45435363
+GET: Array
+(
+)
+POST: Array
+(
+    [data] => {"name":"","phone":"+7(919) 553-55-05","title":"Узнать цену","calltouch_route_key":"","url":"https://uaz-ng.ru/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=UAZ_Y_Net_noviy-urengoy_AD_Patrion_%D0%90WB&utm_term=---autotargeting&utm_content=cid_93268221|ct_type1|gr_5262366924|b_14812625452|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_glas.ru|p_0|pt_none|dt_mobile|reg_11230_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%A3%D1%80%D0%B5%D0%BD%D0%B3%D0%BE%D0%B9&calltouch_tm=yd_c:93268221_gb:5262366924_ad:14812625452_ph:46463655730_st:context_pt:none_p:0_s:glas.ru_dt:mobile_reg:11230_ret:46463655730_apt:none&yclid=4765274951215544903","referrer":"https://glas.ru/news/20230817/423173/","user_agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36","ya":[],"ga":[],"calltouchSessionId":45435363}
+)
+VARS: Array
+(
+    [routeKey] => 1991
+    [phone] => 79195535505
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [name] => form_title
+                    [value] => Узнать цену
+                )
+
+        )
+
+    [utmMedium] => cpc
+    [utmSource] => yandex_s
+    [utmCampaign] => UAZ_Y_Net_noviy-urengoy_AD_Patrion_АWB
+    [utmContent] => cid_93268221|ct_type1|gr_5262366924|b_14812625452|re_46463655730|cre_0|ph_46463655730|drf_no|mt_|mk_|st_context|s_glas.ru|p_0|pt_none|dt_mobile|reg_11230_Новый Уренгой
+    [utmTerm] => ---autotargeting
+    [callUrl] => https://uaz-ng.ru/
+    [sessionId] => 45435363
+)
+RESPONSE: {"meta":[],"data":{"widgetRequestId":213669139}}
+
+
